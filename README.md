@@ -20,6 +20,10 @@ A Python code that uses singular value decomposition (SVD) to process image file
 ## Image reconstruction per channel:
 * The image for each channel is approximated using various 'r' values ​​(number of singular values), and these are combined into an RGB image for visualization. For each 'r' value, generate an approximated image using only one of the RGB channels and display the image with the remaining channels set to 0.
 
+# Usage
+* SampleImageComprresion.ipynb is exaplning Image Comprresion by SVD step by step. This Uses yonsei.jpeg file as a sample program.
+* SVDImageComprresor.py is GUI Program that actually can be process your custom file, and number of Singular Value you want.
+
 
 
 
