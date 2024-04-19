@@ -22,7 +22,7 @@ A Python code that uses singular value decomposition (SVD) to process image file
 
 # Usage
 * SampleImageComprresion.ipynb is exaplning Image Comprresion by SVD step by step. This Uses yonsei.jpeg file as a sample program.
-* SVDImageComprresor.py is GUI Program that actually can be process your custom file, and number of Singular Value you want.
+* SVDImageCompressor.py is GUI Program that actually can be process your custom file, and number of Singular Value you want.
 
 
 
